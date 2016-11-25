@@ -1,6 +1,6 @@
 siteTitle="TransTraks Documentation"
 baseColor = "#884499"
-linkPrefix = "/gatsby-starter-documentation"
+linkPrefix = "/tt-docs"
 docPages = [
   "/docs/",
   "/docs/getting-started/",
