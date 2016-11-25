@@ -4,6 +4,8 @@ title: Accident Information Form
 
 This form is used to enter and maintain information about accidents and incidents involving your fleet's vehicles. Using the form, you capture the particulars about an accident such as the driver's name, location of accident, vehicle involved, etc.
 
+![Accident Information Form](./accident-information-form.png "Accident Information Form")
+
 You may notice the tabs at the top of the form. The Accident Information Form uses tabs to separate distinctive parts of the form. To navigate between the tabs you merely click on the tab with your cursor. Think of these electronic tabs just like the tabs in a notebook and you should have no problem navigating on the form. Let's briefly look at each tab:
 
 ## [Accident Information](./accident-information-tab/)
